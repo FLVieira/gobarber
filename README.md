@@ -100,7 +100,7 @@ MAIL_PORT=
 MAIL_USER=
 MAIL_PASS=
 ```
-#### Iniciado a aplicação
+#### Iniciando a aplicação
 
 Depois de configurada as variavéis de ambiente e, tendo o postgres, o mongodb e o redis rodando podemos iniciar a api
 
