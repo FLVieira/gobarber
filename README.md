@@ -38,7 +38,7 @@ podem se cadastrar como prestador de serviços na aplicação web feita em React
 com estes prestadores através do aplicativo desenvolvido em React Native, sendo toda a lógica gerenciada pela api, feita em NodeJS .
 
 
-# Instalação e execução
+## Instalação e execução
 
 1. git clone https://github.com/FLVieira/gobarber.git
 2. cd gobarber
@@ -166,7 +166,7 @@ Pré-requisitos:
 
 ## Tecnologias utilizadas
 
-# Frontend
+### Frontend
 
 - ⚛ **React** — Biblioteca para construir interfaces de usuário
 - ⚛ **Redux** — Gerenciamento de estado (inclui Saga e Persist)
@@ -175,7 +175,7 @@ Pré-requisitos:
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
 
-# Backend
+### Backend
 
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)
 - [bee-queue](https://github.com/bee-queue/bee-queue)
@@ -197,7 +197,7 @@ Pré-requisitos:
 - [youch](https://github.com/poppinss/youch)
 - [yup](https://github.com/jquense/yup)
 
-# Mobile
+### Mobile
 
 - [axios](https://github.com/axios/axios)
 - [date-fns](https://github.com/date-fns/date-fns)
